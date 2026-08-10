@@ -1,3 +1,5 @@
+package day2;
+
 public class maskPhonenumber {
     public static String maskNumber(String number) {
         if (number == null) {
